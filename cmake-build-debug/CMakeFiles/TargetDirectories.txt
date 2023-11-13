@@ -1,0 +1,4 @@
+C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/module_37_3.dir
+C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/module_37_3_autogen.dir

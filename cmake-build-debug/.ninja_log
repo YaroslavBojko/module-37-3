@@ -1,0 +1,9 @@
+# ninja log v5
+3	877	7215501107956226	build.ninja	95e34672b38c2bcf
+1	232	0	CMakeFiles/module_37_3_autogen	c819f25394d91927
+1	232	0	module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
+1	232	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/module_37_3_autogen	c819f25394d91927
+1	232	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
+247	403	7215501112645674	CMakeFiles/module_37_3.dir/module_37_3_autogen/mocs_compilation.cpp.obj	35f71004ec7004ed
+233	1871	7215501127321045	CMakeFiles/module_37_3.dir/main.cpp.obj	fcb7f1918fd2e72
+1874	2487	7215501130189580	module_37_3.exe	6f5af8a674d7f8cb
