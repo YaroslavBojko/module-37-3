@@ -1,80 +1,20 @@
 # ninja log v5
 3	877	7216689827293324	build.ninja	95e34672b38c2bcf
-10	250	0	CMakeFiles/module_37_3_autogen	c819f25394d91927
-2321	3095	7216688325839868	module_37_3.exe	6f5af8a674d7f8cb
-10	250	0	module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-247	403	7215501112645674	CMakeFiles/module_37_3.dir/module_37_3_autogen/mocs_compilation.cpp.obj	35f71004ec7004ed
-10	250	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/module_37_3_autogen	c819f25394d91927
-10	250	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-251	2320	7216688322366702	CMakeFiles/module_37_3.dir/main.cpp.obj	fcb7f1918fd2e72
-10	250	0	module_37_3_autogen/include/ui_console.h	c819f25394d91927
-10	250	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/include/ui_console.h	c819f25394d91927
-33	807	0	CMakeFiles/module_37_3_autogen	c819f25394d91927
-33	807	0	module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-33	807	0	module_37_3_autogen/include/ui_console.h	c819f25394d91927
-33	807	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/module_37_3_autogen	c819f25394d91927
-33	807	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-33	807	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/include/ui_console.h	c819f25394d91927
-810	2970	7216717721477844	CMakeFiles/module_37_3.dir/module_37_3_autogen/mocs_compilation.cpp.obj	35f71004ec7004ed
-859	3306	7216717725019329	CMakeFiles/module_37_3.dir/main.cpp.obj	fcb7f1918fd2e72
-3306	4062	7216717728368211	module_37_3.exe	6f5af8a674d7f8cb
-7	615	0	CMakeFiles/module_37_3_autogen	c819f25394d91927
-7	615	0	module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-7	615	0	module_37_3_autogen/include/ui_console.h	c819f25394d91927
-7	615	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/module_37_3_autogen	c819f25394d91927
-7	615	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-7	615	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/include/ui_console.h	c819f25394d91927
-616	2142	7216725101114146	CMakeFiles/module_37_3.dir/module_37_3_autogen/mocs_compilation.cpp.obj	35f71004ec7004ed
-6	97	0	CMakeFiles/module_37_3_autogen	c819f25394d91927
-6	97	0	module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-6	97	0	module_37_3_autogen/include/ui_console.h	c819f25394d91927
-6	97	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/module_37_3_autogen	c819f25394d91927
-6	97	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-6	97	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/include/ui_console.h	c819f25394d91927
-98	1512	7216725305341832	CMakeFiles/module_37_3.dir/main.cpp.obj	fcb7f1918fd2e72
-1512	2169	7216725308572596	module_37_3.exe	6f5af8a674d7f8cb
-6	629	0	CMakeFiles/module_37_3_autogen	c819f25394d91927
-6	629	0	module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-6	629	0	module_37_3_autogen/include/ui_console.h	c819f25394d91927
-6	629	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/module_37_3_autogen	c819f25394d91927
-6	629	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-6	629	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/include/ui_console.h	c819f25394d91927
-631	2665	7216725745494869	CMakeFiles/module_37_3.dir/module_37_3_autogen/mocs_compilation.cpp.obj	35f71004ec7004ed
-666	2858	7216725747447990	CMakeFiles/module_37_3.dir/main.cpp.obj	fcb7f1918fd2e72
-2858	3764	7216725751709145	module_37_3.exe	6f5af8a674d7f8cb
-9	836	0	CMakeFiles/module_37_3_autogen	c819f25394d91927
-9	836	0	module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-9	836	0	module_37_3_autogen/include/ui_console.h	c819f25394d91927
-9	836	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/module_37_3_autogen	c819f25394d91927
-9	836	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-9	836	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/include/ui_console.h	c819f25394d91927
-838	2950	7216727073706982	CMakeFiles/module_37_3.dir/module_37_3_autogen/mocs_compilation.cpp.obj	35f71004ec7004ed
-993	3066	7216727074854789	CMakeFiles/module_37_3.dir/main.cpp.obj	fcb7f1918fd2e72
-3066	3764	7216727078020222	module_37_3.exe	6f5af8a674d7f8cb
-6	589	0	CMakeFiles/module_37_3_autogen	c819f25394d91927
-6	589	0	module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-6	589	0	module_37_3_autogen/include/ui_console.h	c819f25394d91927
-6	589	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/module_37_3_autogen	c819f25394d91927
-6	589	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-6	589	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/include/ui_console.h	c819f25394d91927
-591	2035	7216729487586717	CMakeFiles/module_37_3.dir/module_37_3_autogen/mocs_compilation.cpp.obj	35f71004ec7004ed
-629	2116	7216729488389772	CMakeFiles/module_37_3.dir/main.cpp.obj	fcb7f1918fd2e72
-2116	2753	7216729491328633	module_37_3.exe	6f5af8a674d7f8cb
-7	561	0	CMakeFiles/module_37_3_autogen	c819f25394d91927
-7	561	0	module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-7	561	0	module_37_3_autogen/include/ui_console.h	c819f25394d91927
-7	561	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/module_37_3_autogen	c819f25394d91927
-7	561	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-7	561	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/include/ui_console.h	c819f25394d91927
-562	1951	7216730965899528	CMakeFiles/module_37_3.dir/module_37_3_autogen/mocs_compilation.cpp.obj	35f71004ec7004ed
-597	2064	7216730967023880	CMakeFiles/module_37_3.dir/main.cpp.obj	fcb7f1918fd2e72
-2065	2686	7216730969781232	module_37_3.exe	6f5af8a674d7f8cb
-9	1022	0	CMakeFiles/module_37_3_autogen	c819f25394d91927
-9	1022	0	module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-9	1022	0	module_37_3_autogen/include/ui_console.h	c819f25394d91927
-9	1022	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/module_37_3_autogen	c819f25394d91927
-9	1022	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
-9	1022	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/include/ui_console.h	c819f25394d91927
-1024	3084	7216732249973434	CMakeFiles/module_37_3.dir/module_37_3_autogen/mocs_compilation.cpp.obj	35f71004ec7004ed
-1084	3168	7216732250820627	CMakeFiles/module_37_3.dir/main.cpp.obj	fcb7f1918fd2e72
-3168	3879	7216732254088661	module_37_3.exe	6f5af8a674d7f8cb
+2184	2918	7216812580556646	module_37_3.exe	6f5af8a674d7f8cb
+7	593	0	CMakeFiles/module_37_3_autogen	c819f25394d91927
+594	2099	7216812576489064	CMakeFiles/module_37_3.dir/module_37_3_autogen/mocs_compilation.cpp.obj	35f71004ec7004ed
+7	593	0	module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
+7	593	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/module_37_3_autogen	c819f25394d91927
+7	593	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
+634	2184	7216812577337945	CMakeFiles/module_37_3.dir/main.cpp.obj	fcb7f1918fd2e72
+7	593	0	module_37_3_autogen/include/ui_console.h	c819f25394d91927
+7	593	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/include/ui_console.h	c819f25394d91927
+6	901	0	CMakeFiles/module_37_3_autogen	c819f25394d91927
+6	901	0	module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
+6	901	0	module_37_3_autogen/include/ui_console.h	c819f25394d91927
+6	901	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/module_37_3_autogen	c819f25394d91927
+6	901	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/mocs_compilation.cpp	c819f25394d91927
+6	901	0	C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/module_37_3_autogen/include/ui_console.h	c819f25394d91927
+903	2921	7216813760005012	CMakeFiles/module_37_3.dir/module_37_3_autogen/mocs_compilation.cpp.obj	35f71004ec7004ed
+993	3055	7216813761345250	CMakeFiles/module_37_3.dir/main.cpp.obj	fcb7f1918fd2e72
+3055	3763	7216813764463819	module_37_3.exe	6f5af8a674d7f8cb

@@ -76,10 +76,34 @@ public slots:
         channel = 9;
         displayOutput();
     };
-    void chDown(){};
-    void chUp(){};
-    void volDown(){};
-    void volUp(){};
+    void chDown()
+    {
+        if (channel > 0)
+            --channel;
+        else channel = 0;
+        displayOutput();
+    };
+    void chUp()
+    {
+        if (channel < 9)
+            ++channel;
+        else channel = 9;
+        displayOutput();
+    };
+    void volDown()
+    {
+        if (volume > 0)
+            volume -= 10;
+        else volume = 0;
+        displayOutput();
+    };
+    void volUp()
+    {
+        if (volume < 100)
+            volume += 10;
+        else volume = 100;
+        displayOutput();
+    };
 
 };
 
