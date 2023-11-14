@@ -110,13 +110,13 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Utility command for module_37_3_autogen
 
-build module_37_3_autogen: phony CMakeFiles/module_37_3_autogen module_37_3_autogen/mocs_compilation.cpp
+build module_37_3_autogen: phony CMakeFiles/module_37_3_autogen module_37_3_autogen/mocs_compilation.cpp module_37_3_autogen/include/ui_console.h
 
 
 #############################################
 # Custom command for CMakeFiles\module_37_3_autogen
 
-build CMakeFiles/module_37_3_autogen module_37_3_autogen/mocs_compilation.cpp | ${cmake_ninja_workdir}CMakeFiles/module_37_3_autogen ${cmake_ninja_workdir}module_37_3_autogen/mocs_compilation.cpp: CUSTOM_COMMAND
+build CMakeFiles/module_37_3_autogen module_37_3_autogen/mocs_compilation.cpp module_37_3_autogen/include/ui_console.h | ${cmake_ninja_workdir}CMakeFiles/module_37_3_autogen ${cmake_ninja_workdir}module_37_3_autogen/mocs_compilation.cpp ${cmake_ninja_workdir}module_37_3_autogen/include/ui_console.h: CUSTOM_COMMAND
   COMMAND = cmd.exe /C "cd /D "C:\Users\yaros\CLionProjects\module 37.3\cmake-build-debug" && "C:\Program Files\JetBrains\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" -E cmake_autogen "C:/Users/yaros/CLionProjects/module 37.3/cmake-build-debug/CMakeFiles/module_37_3_autogen.dir/AutogenInfo.json" Debug"
   DESC = Automatic MOC and UIC for target module_37_3
   restat = 1
