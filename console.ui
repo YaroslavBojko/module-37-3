@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>317</width>
-    <height>703</height>
+    <width>319</width>
+    <height>717</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -334,7 +334,7 @@ color:rgb(255, 255, 255)</string>
          </widget>
         </item>
         <item row="3" column="0" colspan="2">
-         <widget class="QLineEdit" name="lineEdit">
+         <widget class="QLineEdit" name="display">
           <property name="minimumSize">
            <size>
             <width>0</width>
@@ -354,7 +354,7 @@ color:rgb(255, 255, 255)</string>
            <set>Qt::AlignCenter</set>
           </property>
           <property name="placeholderText">
-           <string>Ch: 9   Vol: 50%</string>
+           <string>Ch: 5   Vol: 50%</string>
           </property>
          </widget>
         </item>
@@ -369,7 +369,7 @@ color:rgb(255, 255, 255)</string>
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>317</width>
+     <width>319</width>
      <height>26</height>
     </rect>
    </property>
@@ -449,7 +449,7 @@ color:rgb(255, 255, 255)</string>
    <slot>channel2()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>141</x>
+     <x>204</x>
      <y>80</y>
     </hint>
     <hint type="destinationlabel">
@@ -465,7 +465,7 @@ color:rgb(255, 255, 255)</string>
    <slot>channel3()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>251</x>
+     <x>304</x>
      <y>115</y>
     </hint>
     <hint type="destinationlabel">
@@ -481,8 +481,8 @@ color:rgb(255, 255, 255)</string>
    <slot>channel5()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>177</x>
-     <y>182</y>
+     <x>204</x>
+     <y>184</y>
     </hint>
     <hint type="destinationlabel">
      <x>313</x>
@@ -497,8 +497,8 @@ color:rgb(255, 255, 255)</string>
    <slot>channel6()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>249</x>
-     <y>228</y>
+     <x>304</x>
+     <y>233</y>
     </hint>
     <hint type="destinationlabel">
      <x>312</x>
@@ -513,8 +513,8 @@ color:rgb(255, 255, 255)</string>
    <slot>channel8()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>162</x>
-     <y>326</y>
+     <x>204</x>
+     <y>336</y>
     </hint>
     <hint type="destinationlabel">
      <x>310</x>
@@ -529,8 +529,8 @@ color:rgb(255, 255, 255)</string>
    <slot>channel9()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>266</x>
-     <y>343</y>
+     <x>304</x>
+     <y>355</y>
     </hint>
     <hint type="destinationlabel">
      <x>309</x>
@@ -546,7 +546,7 @@ color:rgb(255, 255, 255)</string>
    <hints>
     <hint type="sourcelabel">
      <x>93</x>
-     <y>543</y>
+     <y>538</y>
     </hint>
     <hint type="destinationlabel">
      <x>7</x>
@@ -562,7 +562,7 @@ color:rgb(255, 255, 255)</string>
    <hints>
     <hint type="sourcelabel">
      <x>104</x>
-     <y>582</y>
+     <y>584</y>
     </hint>
     <hint type="destinationlabel">
      <x>7</x>
@@ -577,8 +577,8 @@ color:rgb(255, 255, 255)</string>
    <slot>chUp()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>237</x>
-     <y>542</y>
+     <x>304</x>
+     <y>537</y>
     </hint>
     <hint type="destinationlabel">
      <x>308</x>
@@ -593,8 +593,8 @@ color:rgb(255, 255, 255)</string>
    <slot>volUp()</slot>
    <hints>
     <hint type="sourcelabel">
-     <x>249</x>
-     <y>587</y>
+     <x>304</x>
+     <y>583</y>
     </hint>
     <hint type="destinationlabel">
      <x>310</x>
