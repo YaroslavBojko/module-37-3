@@ -377,5 +377,246 @@ color:rgb(255, 255, 255)</string>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
  <resources/>
- <connections/>
+ <connections>
+  <connection>
+   <sender>number1</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>channel1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>71</x>
+     <y>97</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>6</x>
+     <y>106</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>number4</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>channel4()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>64</x>
+     <y>215</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>8</x>
+     <y>221</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>number7</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>channel7()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>71</x>
+     <y>338</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>10</x>
+     <y>341</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>number0</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>channel0()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>142</x>
+     <y>446</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>8</x>
+     <y>453</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>number2</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>channel2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>141</x>
+     <y>80</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>309</x>
+     <y>73</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>number3</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>channel3()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>251</x>
+     <y>115</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>311</x>
+     <y>115</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>number5</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>channel5()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>177</x>
+     <y>182</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>313</x>
+     <y>177</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>number6</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>channel6()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>249</x>
+     <y>228</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>312</x>
+     <y>228</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>number8</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>channel8()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>162</x>
+     <y>326</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>310</x>
+     <y>317</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>number9</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>channel9()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>266</x>
+     <y>343</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>309</x>
+     <y>366</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>chanDown</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>chDown()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>93</x>
+     <y>543</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>7</x>
+     <y>544</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>volumeDoun</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>volDown()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>104</x>
+     <y>582</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>7</x>
+     <y>587</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>chanUp</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>chUp()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>237</x>
+     <y>542</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>308</x>
+     <y>536</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>volumeUp</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>volUp()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>249</x>
+     <y>587</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>310</x>
+     <y>589</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>channel1()</slot>
+  <slot>channel2()</slot>
+  <slot>channel3()</slot>
+  <slot>channel4()</slot>
+  <slot>channel5()</slot>
+  <slot>channel6()</slot>
+  <slot>channel7()</slot>
+  <slot>channel8()</slot>
+  <slot>channel9()</slot>
+  <slot>volDown()</slot>
+  <slot>volUp()</slot>
+  <slot>chDown()</slot>
+  <slot>chUp()</slot>
+  <slot>channel0()</slot>
+ </slots>
 </ui>
